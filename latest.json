@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.1",
+  "app_id": "SUNRISE-EIASS-WIN-DESKTOP",
+  "latest_version": "4.0.0",
+  "package_kind": "onefile",
+  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/latest/download/Sunrise%20EIASS.exe",
+  "download_file_name": "Sunrise EIASS.exe",
+  "sha256": "be26e8179d86e61a99217f03dcb33731d89c8fd84c1d581499a72fb4cb01c28d",
+  "release_date": "2026-07-26",
+  "file_size_bytes": 60200496,
+  "notice_url": "https://raw.githubusercontent.com/Peter-msk/Sunrise-EIASS/main/notice.txt",
+  "is_critical": false,
+  "release_notes": [
+    "PDF 원문 분류 선택과 두쪽 모아보기 지원",
+    "마우스 휠 페이지 이동 및 Ctrl+휠 확대·축소",
+    "도로사업 시점·종점 네이버지도 연동"
+  ]
+}
