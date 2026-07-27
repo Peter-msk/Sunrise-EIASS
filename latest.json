@@ -1,18 +1,18 @@
 {
   "schema_version": "1.1",
   "app_id": "SUNRISE-EIASS-WIN-DESKTOP",
-  "latest_version": "4.2.3",
+  "latest_version": "4.3.1",
   "package_kind": "onefile",
-  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/latest/download/Sunrise.EIASS.exe",
+  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/latest/download/Sunrise%20EIASS.exe",
   "download_file_name": "Sunrise EIASS.exe",
-  "sha256": "bc8ee08c8d901ba88249e3139a68d8528b8afff4b528c33690ec3503d5b2ca87",
+  "sha256": "94bbb1f8936e1b7bbea2213be00654d68a201832fe029c46903859f63daeac02",
   "release_date": "2026-07-27",
-  "file_size_bytes": 60207576,
+  "file_size_bytes": 60793392,
   "notice_url": "https://raw.githubusercontent.com/Peter-msk/Sunrise-EIASS/main/notice.txt",
   "is_critical": false,
   "release_notes": [
-    "원문 문서 목록에서 보이지 않던 분류 탭 복구",
-    "PDF 미리보기 원문 목록 탭을 표 상단에 고정하고 탭·글자 겹침 제거",
-    "긴 분류명은 전체 표시하고 다수 탭은 좌우 버튼으로 탐색하며 기존 체크박스·미체크 보완 유지"
+    "협의기관 선택과 다른 기관이 섞이던 정확도 회귀 수정",
+    "기관 표시 행 즉시 비교 및 기관 미표시 행만 상세 검증",
+    "최대 6개 병렬 상세 검증과 캐시로 검색속도 유지"
   ]
 }
