@@ -2,8 +2,8 @@
 
 > EIASS 환경영향평가 사업을 검색하고, 사업개요와 원문 문서를 한 화면에서 확인할 수 있도록 만든 Windows 업무지원 프로그램입니다.
 
-![Version](https://img.shields.io/badge/version-4.0.0-1668c7)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
+![Version](https://img.shields.io/badge/version-4.2.3-1668c7)
+![플랫폼](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
 
 ## 프로그램 소개
 
@@ -43,7 +43,7 @@
 
 현재 공개 기준 버전은 **Sunrise EIASS v4.0.0**입니다.
 
-최신 프로그램은 GitHub의 **Releases**에서 확인할 수 있습니다.
+최신 프로그램은 GitHub의 **릴리즈**에서 확인할 수 있습니다.
 
 - [최신 버전 다운로드](https://github.com/Peter-msk/Sunrise-EIASS/releases/latest)
 - [공지사항 및 저장소](https://github.com/Peter-msk/Sunrise-EIASS)
