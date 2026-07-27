@@ -1,18 +1,18 @@
 {
   "schema_version": "1.1",
   "app_id": "SUNRISE-EIASS-WIN-DESKTOP",
-  "latest_version": "4.0.0",
+  "latest_version": "4.2.2",
   "package_kind": "onefile",
   "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/latest/download/Sunrise%20EIASS.exe",
   "download_file_name": "Sunrise EIASS.exe",
-  "sha256": "be26e8179d86e61a99217f03dcb33731d89c8fd84c1d581499a72fb4cb01c28d",
-  "release_date": "2026-07-26",
-  "file_size_bytes": 60200496,
+  "sha256": "8af4d929955d1bee189c9b7105ad357dfa993073940775004db616d7beea165b",
+  "release_date": "2026-07-27",
+  "file_size_bytes": 60206512,
   "notice_url": "https://raw.githubusercontent.com/Peter-msk/Sunrise-EIASS/main/notice.txt",
   "is_critical": false,
   "release_notes": [
-    "PDF 원문 분류 선택과 두쪽 모아보기 지원",
-    "마우스 휠 페이지 이동 및 Ctrl+휠 확대·축소",
-    "도로사업 시점·종점 네이버지도 연동"
+    "원문 문서 목록에서 보이지 않던 분류 탭 복구",
+    "PDF 미리보기 원문 목록 탭을 표 상단에 고정하고 탭·글자 겹침 제거",
+    "긴 분류명은 전체 표시하고 다수 탭은 좌우 버튼으로 탐색하며 기존 체크박스·미체크 보완 유지"
   ]
 }
