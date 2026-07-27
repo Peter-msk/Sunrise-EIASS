@@ -1,4 +1,4 @@
-Sunrise EIASS v4.2.2
+Sunrise EIASS v4.2.3
 
 개선된 기능
 - 검색목록 평가유형 탭의 과도한 여백과 닫기 버튼 이탈 수정
