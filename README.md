@@ -2,7 +2,7 @@
 
 > EIASS 환경영향평가 사업을 검색하고, 사업개요와 원문 문서를 한 화면에서 확인할 수 있도록 만든 Windows 업무지원 프로그램입니다.
 
-![Version](https://img.shields.io/badge/version-4.3.1-1668c7)
+![Version](https://img.shields.io/badge/version-4.3.2-1668c7)
 ![플랫폼](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
 
 ## 프로그램 소개
