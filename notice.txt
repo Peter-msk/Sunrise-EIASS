@@ -1,4 +1,4 @@
-Sunrise EIASS v4.3.7
+Sunrise EIASS v4.3.8
 
 개선된 기능
 - 좌측 검색 패널에서 진행현황을 직접 선택

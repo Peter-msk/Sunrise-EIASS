@@ -1,13 +1,13 @@
 {
   "schema_version": "1.1",
   "app_id": "SUNRISE-EIASS-WIN-DESKTOP",
-  "latest_version": "4.3.7",
+  "latest_version": "4.3.8",
   "package_kind": "onefile",
-  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/download/v4.3.7/Sunrise.EIASS.exe",
+  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/download/v4.3.8/Sunrise.EIASS.exe",
   "download_file_name": "Sunrise EIASS.exe",
-  "sha256": "2636f96c2fe36a6f7f8755274309eacadbd4659114f05b3f8bd9f10da5016585",
+  "sha256": "cb1993d644891b23c2a84fb51481d4c3d70b23254911b0673d3ba46ba85cb0b6",
   "release_date": "2026-07-31",
-  "file_size_bytes": 61728656,
+  "file_size_bytes": 61735592,
   "notice_url": "https://raw.githubusercontent.com/Peter-msk/Sunrise-EIASS/main/notice.txt",
   "is_critical": false,
   "release_notes": [
