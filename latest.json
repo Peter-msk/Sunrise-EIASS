@@ -1,14 +1,14 @@
 {
   "schema_version": "1.1",
   "app_id": "SUNRISE-EIASS-WIN-DESKTOP",
-  "latest_version": "4.5.4",
+  "latest_version": "4.5.5",
   "package_kind": "onefile",
-  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/download/v4.5.4/Sunrise.EIASS.exe",
+  "download_url": "https://github.com/Peter-msk/Sunrise-EIASS/releases/download/v4.5.5/Sunrise.EIASS.exe",
   "download_file_name": "Sunrise EIASS.exe",
   "asset_name": "Sunrise.EIASS.exe",
-  "sha256": "40651daa627448ddfde1d145afe02e6d9d62b293ea2a871feb39e42612f1c0bf",
-  "release_date": "2026-08-30",
-  "file_size_bytes": 61742096,
+  "sha256": "c6351b93dba17a8c2ab3a2c9f6e1c39a6e2846587b9d13031f5da8b3185c5ea0",
+  "release_date": "2026-09-14",
+  "file_size_bytes": 61685544,
   "notice_url": "https://raw.githubusercontent.com/Peter-msk/Sunrise-EIASS/main/notice.txt",
   "is_critical": false,
   "release_notes": [
@@ -16,6 +16,8 @@
     "\uae30\uc874 \ub2e4\uc6b4\ub85c\ub4dc \uc7ac\uc0ac\uc6a9 \uc804 \ud30c\uc77c \ud06c\uae30\u00b7\uc2e4\uc81c SHA-256 \uac80\uc99d",
     "PDF \ubbf8\ub9ac\ubcf4\uae30 \uc751\ub2f5 \uc885\ub8cc\uc640 \uc0ac\uc5c5 \ubcf4\uad00\ud568 \uc6d0\uc790 \uc800\uc7a5 \ubcf4\uc644",
     "\ucd5c\uc885 \ubc30\ud3ec EXE\ub97c Sunrise.EIASS.exe \ud55c \uac1c\ub85c \ud1b5\ud569\ud558\uace0 \uc11c\uba85 \ud6c4 \ud574\uc2dc\ub97c \uc7ac\uc0dd\uc131",
-    "\uc5c5\ub370\uc774\ud2b8 \uc2e4\ud328 \uc2dc \ud604\uc7ac EXE\ub97c \ubcf4\uc874\ud558\uace0 \ud574\ub2f9 \uac70\ub798 \ud3f4\ub354\ub9cc \uc815\ub9ac"
+    "\uc5c5\ub370\uc774\ud2b8 \uc2e4\ud328 \uc2dc \ud604\uc7ac EXE\ub97c \ubcf4\uc874\ud558\uace0 \ud574\ub2f9 \uac70\ub798 \ud3f4\ub354\ub9cc \uc815\ub9ac",
+    "\uce74\ub4dc\u00b7\uba54\ub274\u00b7\uadf8\ub8f9\ubcc4 UI \uc2a4\ud0c0\uc77c \uacbd\uacc4\uc640 \uc120\ud0dd \uc0c1\ud0dc \ubc84\ud2bc\u00b7\ud0ed \ub192\uc774 \ubcf4\uc644",
+    "PDF \ud30c\uc77c \uc804\ud658 \uc2dc \ubb38\uc11c \ubd84\ub958 \ud0ed \uc720\uc9c0 \ubc0f \ub2e4\uc911 \uc0ac\uc5c5\ubcc4 \ub2e4\uc6b4\ub85c\ub4dc \uc120\ud0dd \ud31d\uc5c5"
   ]
 }
