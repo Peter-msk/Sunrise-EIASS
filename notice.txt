@@ -1,4 +1,4 @@
-Sunrise EIASS v4.6.6
+Sunrise EIASS v4.6.8
 
 개선된 기능
 - Sunrise Control v1 중앙 실행·업데이트 정책 연동
