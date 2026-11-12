@@ -1,12 +1,12 @@
-Sunrise EIASS v4.6.2
+Sunrise EIASS v4.7.0
 
 개선된 기능
-- Sunrise Group 제품별 AppData 폴더 및 설정 INI 위치 표준화
-- 이전 Windows UI 설정을 최초 실행 시 보존·이전
-- 관리 메뉴에서 데이터·설정 폴더 열기 제공
+- 실제 EIASS PDF 원문만 다운로드 성공으로 인정
+- 가상 첨부와 오류 HTML의 대체 PDF 생성 차단
+- 파일 형식·원문 상태·다운로드 이력 검증 강화
 
 기존 기능 유지
-- Control 업데이트 정책과 onefile 업데이트·롤백 유지
-- 검색·사업 상세·PDF 보기·다운로드 기능 유지
+- 사업조회·국민참여·검색·다중문서 목록·본문검색 지원
+- Control 정책·onefile 업데이트·롤백 계약 유지
 
-배포 전 Windows 실제 빌드·실사용 검증 필요
+정식 배포 전 Windows 실행·실사이트 원문 대조 필수
